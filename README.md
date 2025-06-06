@@ -60,9 +60,6 @@ Insight Generation
 
 Python Libraries
 
-📷 Project Preview
-Add screenshots or graphs from your notebook here to enhance visual appeal.
-
 Contact
 www.linkedin.com/in/akshjeet-singh-854019318
 
